@@ -1,4 +1,4 @@
 *.js linguist-language=WeChat
 *.wxss linguist-language=WeChat
 *.wxml linguist-language=WeChat
-*.php linguist-language=PHP
+*.php linguist-language=WeChat

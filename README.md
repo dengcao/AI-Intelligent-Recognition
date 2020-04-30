@@ -2,7 +2,11 @@
 
 AI智能识物，是一款实用的小程序。可以拍照智能识物，可识别地标、车型、花卉、植物、动物、果蔬、货币、红酒、食材等等，AI智能技术识别准确度高。
 
-### 系统说明：
+### 更新说明：
+
+此源码为1.2.0版本。
+
+主要更新内容：新增security.imgSecCheck函数对用户上传的图片进行合法性安全检测。
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
@@ -14,11 +18,17 @@ GitHub：https://github.com/cao-zha/AI-Intelligent-Recognition
 
 1、PHP端：打开config.php，修改为您的API信息，并将PHP代码上传到您的网站空间或者服务器。获得一个URL：http://xxxxx/AccessToken_get.php
 
-2、小程序端：打开根目录下的app.js，找到代码：
+2、小程序端：
+
+①打开根目录下的app.js，找到代码：
 
 url: "https://caozha.com/xxxxx/AccessToken_get.php",
 
-将上面代码的URL替换为您网站的URL，即可正常使用。
+将上面代码的URL替换为您网站的URL。
+
+②在cloud_function目录，有一个云函数caozha_ai_shiwu。在微信开发者工具里，在文件夹caozha_ai_shiwu上点击右键，将此云函数上传并部署到您的小程序云端。
+
+如果您没有开通微信小程序的云端开发，点击“云开发”开通。关于云函数：https://developers.weixin.qq.com/miniprogram/dev/wxcloud/guide/functions.html
 
 -----------------------
 

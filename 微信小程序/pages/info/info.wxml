@@ -19,7 +19,7 @@
             <ad unitId="adunit-20f2a9e8cb9ed267"></ad>
         </view-->
         <view class="banquan" style='padding: 150rpx 0 50rpx 0;color:#444;'>
-    <text class="bq" bindtap="banquan">@工具大全  t.caozha.com</text>
+    <text class="bq" bindtap="banquan">@工具大全  caozha.com</text>
   </view>
 
     </view>

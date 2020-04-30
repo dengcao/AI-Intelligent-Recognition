@@ -30,6 +30,8 @@
 	"isGameTourist": false,
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
+	"cloudfunctionRoot": "cloud_function/",
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
 	"condition": {
 		"search": {
 			"current": -1,

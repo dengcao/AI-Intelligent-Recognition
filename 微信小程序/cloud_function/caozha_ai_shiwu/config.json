@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "caozha_ai_shiwu": [
+      "security.imgSecCheck"     
+    ]
+  }
+}

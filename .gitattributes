@@ -1,0 +1,4 @@
+*.js linguist-language=javascript
+*.wxss linguist-language=css
+*.wxml linguist-language=weixin
+*.php linguist-language=php

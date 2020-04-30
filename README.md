@@ -4,6 +4,8 @@ AI智能识物，是一款实用的小程序。可以拍照智能识物，可识
 
 ### 系统说明：
 
+此源码为1.0.0版本。
+
 支持本程序，请到Gitee和GitHub给我们点Star！
 
 Gitee：https://gitee.com/caozha/AI-Intelligent-Recognition

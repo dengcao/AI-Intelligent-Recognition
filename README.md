@@ -1,14 +1,14 @@
 ﻿# AI智能识物
 
-AI智能识物，一款很实用的小程序。可以拍照智能识物，可识别地标、车型、花卉、植物、动物、果蔬、货币、红酒、食材等等，AI智能技术识别准确度高。
+AI智能识物，是一款实用的小程序。可以拍照智能识物，可识别地标、车型、花卉、植物、动物、果蔬、货币、红酒、食材等等，AI智能技术识别准确度高。
 
 ### 系统说明：
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/wx-chima
+Gitee：https://gitee.com/caozha/AI-Intelligent-Recognition
 
-GitHub：https://github.com/cao-zha/wx-chima
+GitHub：https://github.com/cao-zha/AI-Intelligent-Recognition
 
 ### 安装方法
 

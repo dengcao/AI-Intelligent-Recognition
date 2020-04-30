@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/scan/scan",
+    "pages/info/info"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#19be6b",
+    "navigationBarTitleText": "AI智能识物",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "navigateToMiniProgramAppIdList": [
+    "wx9588ff2d3063ee31"
+  ]
+}

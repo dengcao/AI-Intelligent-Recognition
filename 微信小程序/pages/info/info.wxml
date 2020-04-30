@@ -1,0 +1,26 @@
+<view class="container">
+    <view class="img">
+        <image src="{{imgurl}}"></image>
+    </view>
+    <view class="info">
+        <view class="table">
+            <text style="font-size:38rpx;">识别结果(共{{result_num}}条)</text>
+            <view class="tr" wx:for="{{itemData}}">
+                <view class="td">
+                <rich-text nodes="<b class='b'>【名称】：</b>{{item.keyword}} <br><b class='b'>【标签】：</b>{{item.root}} <br><b class='b'>【匹配度】：</b><span class='red'>{{score[index]}}%</span>"></rich-text>
+                <view class="baike" wx:if="{{item.baike_info.description}}">
+                <rich-text nodes="<b class='b'>【百科资料】：</b><br><img src='{{item.baike_info.image_url}}' style='float:left;clear: both;width:130px;height:130px;margin:8px 8px 8px 0;'>{{item.baike_info.description}}"></rich-text>
+                </view>
+
+                </view>                
+            </view>
+        </view>
+        <!--view style="width:100%;height:100%;padding-top:106rpx;">
+            <ad unitId="adunit-20f2a9e8cb9ed267"></ad>
+        </view-->
+        <view class="banquan" style='padding: 150rpx 0 50rpx 0;color:#444;'>
+    <text class="bq" bindtap="banquan">@工具大全  t.caozha.com</text>
+  </view>
+
+    </view>
+</view>

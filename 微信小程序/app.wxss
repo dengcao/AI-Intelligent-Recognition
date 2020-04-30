@@ -1,0 +1,18 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
+.banquan{
+  clear: both;
+  padding: 150rpx 0 80rpx 0;
+  text-align:center;
+  font-size: 12px;
+  color:#fff;
+  font-family:Arial, Helvetica, sans-serif;
+}

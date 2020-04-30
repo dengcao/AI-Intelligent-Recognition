@@ -1,0 +1,31 @@
+<view class="big">
+    <view class="pic">
+        <view class="img">
+            <swiper autoplay="true" class="slid" interval="2000">
+                <swiper-item>
+                    <view class="headView" bindtap="PlantDetect" id="camera">
+                        <image class="icon" src="/images/logo.png"></image>
+                        <view class="icon"></view>
+                    </view>
+                    <view class="detail">
+                        <view class="userName">拍照智能识物</view>
+              可识别地标、车型、花卉、植物、动物、果蔬、货币、红酒、食材等等，AI智能技术识别准确度高。
+            </view>
+                </swiper-item>
+            </swiper>
+            <button bindtap="PlantDetect" class="btn" id="camera">
+                <i-icon color="#fff" size="28" type="camera_fill"></i-icon> 拍照识别
+      </button>
+            <view bindtap="PlantDetect" class="xc" id="album">
+                <text>从相册选择></text>
+        {{id}}
+      </view>
+
+      
+<view class="banquan">
+    <text class="bq" bindtap="banquan">@工具大全</text>
+  </view>
+
+        </view>
+    </view>
+</view>

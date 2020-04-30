@@ -12,7 +12,7 @@ App({
 
     if (baiduyun.access_token == "" || baiduyun.access_token == null || baiduyun.expires_in == "" || baiduyun.expires_in == null || baiduyun.expires_in < timestamp){
     wx.request({
-      url: "https://caozha.com/api/xcx/baiduyun/AccessToken_get.php",
+      url: "https://caozha.com/xxxxx/AccessToken_get.php",
       data: {},
       method: 'GET', // OPTIONS, GET, HEAD, POST, PUT, DELETE, TRACE, CONNECT
       header: {

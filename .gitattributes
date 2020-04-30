@@ -1,4 +1,4 @@
-*.js linguist-language=javascript
-*.wxss linguist-language=css
-*.wxml linguist-language=weixin
-*.php linguist-language=php
+*.js linguist-language=WeChat
+*.wxss linguist-language=WeChat
+*.wxml linguist-language=WeChat
+*.php linguist-language=PHP

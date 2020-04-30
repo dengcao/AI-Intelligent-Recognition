@@ -16,11 +16,13 @@ GitHub：https://github.com/cao-zha/AI-Intelligent-Recognition
 
 ### 安装方法
 
-1、PHP端：打开config.php，修改为您的API信息，并将PHP代码上传到您的网站空间或者服务器。获得一个URL：http://xxxxx/AccessToken_get.php
+1、PHP端：
+
+打开PHP后端目录/PHP/，找到config.php，修改为您的API信息，并将PHP代码上传到您的网站空间或者服务器。获得一个URL：http://xxxxx/AccessToken_get.php
 
 2、小程序端：
 
-①打开根目录下的app.js，找到代码：
+①打开微信小程序目录/wechat_mini_program/，找到app.js，并找到代码：
 
 url: "https://caozha.com/xxxxx/AccessToken_get.php",
 

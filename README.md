@@ -1,4 +1,4 @@
-﻿# AI智能识物
+# AI智能识物
 
 AI智能识物，是一款实用的小程序。可以拍照智能识物，可识别地标、车型、花卉、植物、动物、果蔬、货币、红酒、食材等等，AI智能技术识别准确度高。
 
@@ -48,4 +48,6 @@ url: "https://caozha.com/xxxxx/AccessToken_get.php",
 ### 界面预览
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0430/104726_cf775e8c_7397417.png "AI智能识物首页")
-
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0504/200311_1fa465ba_7397417.png "测试结果1")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0504/200649_2f1b2f64_7397417.jpeg "测试结果2")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0504/200702_72e4ba6f_7397417.jpeg "测试结果3")

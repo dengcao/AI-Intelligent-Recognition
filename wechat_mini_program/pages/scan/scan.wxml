@@ -29,3 +29,4 @@
         </view>
     </view>
 </view>
+<canvas canvas-id="canvas" style="width:{{cWidth}}px;height:{{cHeight}}px;position: absolute;left:-1000px;top:-1000px;"></canvas>

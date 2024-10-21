@@ -10,9 +10,9 @@ AI智能识物，是一款实用的小程序。可以拍照智能识物，可识
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/AI-Intelligent-Recognition
+Gitee：https://gitee.com/dengzhenhua/AI-Intelligent-Recognition
 
-GitHub：https://github.com/cao-zha/AI-Intelligent-Recognition
+GitHub：https://github.com/dengcao/AI-Intelligent-Recognition
 
 ### 安装方法
 
@@ -38,9 +38,9 @@ url: "https://caozha.com/xxxxx/AccessToken_get.php",
 
 ### 版权所有
 
-开发：草札 www.caozha.com
+开发：邓草 www.5300.cn
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+鸣谢：品络 www.pinluo.com  &ensp;  汉语言文学网 www.hyywx.com  &ensp;  雄马 www.xiongma.cn
 
 ### 扫码体验
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0430/104457_0326c9b6_7397417.jpeg "小程序码")

@@ -38,9 +38,9 @@ url: "https://caozha.com/xxxxx/AccessToken_get.php",
 
 ### 关于
 
-开发：邓草博客 blog.5300.cn
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
-赞助：品络 www.pinluo.com  &ensp;  AI工具箱 www.5300.cn  &ensp;  汉语言文学网 www.hyywx.com  &ensp;  雄马 www.xiongma.cn
+赞助：[品络 www.pinluo.com](http://blog.5300.cn)  &ensp;  [AI工具箱 5300.cn](https://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](https://hyywx.com)  &ensp;  [雄马 xiongma.cn](https://xiongma.cn)
 
 ### 扫码体验
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0430/104457_0326c9b6_7397417.jpeg "小程序码")

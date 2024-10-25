@@ -36,11 +36,11 @@ url: "https://caozha.com/xxxxx/AccessToken_get.php",
 
 特别说明：采用PHP+小程序结合的方式，是因为百度API获取的Access Token有效期为1个月，时效足够长，用自己的服务器可以重复使用此Access Token，避免访问量大的时候频繁请求百度API而被拒绝。
 
-### 版权所有
+### 关于
 
-开发：邓草 www.5300.cn
+开发：邓草博客 blog.5300.cn
 
-鸣谢：品络 www.pinluo.com  &ensp;  汉语言文学网 www.hyywx.com  &ensp;  雄马 www.xiongma.cn
+赞助：品络 www.pinluo.com  &ensp;  AI工具箱 www.5300.cn  &ensp;  汉语言文学网 www.hyywx.com  &ensp;  雄马 www.xiongma.cn
 
 ### 扫码体验
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0430/104457_0326c9b6_7397417.jpeg "小程序码")
